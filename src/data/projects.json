@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Project 1",
+    "description": "A brief description of Project 1",
+    "image": "https://source.unsplash.com/random/800x600?tech",
+    "additionalInfo": "Additional information about Project 1"
+  },
+  {
+    "id": 2,
+    "title": "Project 2",
+    "description": "A brief description of Project 2",
+    "image": "https://source.unsplash.com/random/800x600?code",
+    "additionalInfo": "Additional information about Project 2"
+  },
+  {
+    "id": 3,
+    "title": "Project 3",
+    "description": "A brief description of Project 3",
+    "image": "https://source.unsplash.com/random/800x600?programming",
+    "additionalInfo": "Additional information about Project 3"
+  },
+  {
+    "id": 4,
+    "title": "Project 4",
+    "description": "A brief description of Project 3",
+    "image": "https://source.unsplash.com/random/800x600?programming",
+    "additionalInfo": "Additional information about Project 3"
+  },
+  {
+    "id": 5,
+    "title": "Project 5",
+    "description": "A brief description of Project 3",
+    "image": "https://source.unsplash.com/random/800x600?programming",
+    "additionalInfo": "Additional information about Project 3"
+  },
+  {
+    "id": 6,
+    "title": "Project 6",
+    "description": "A brief description of Project 3",
+    "image": "https://source.unsplash.com/random/800x600?programming",
+    "additionalInfo": "Additional information about Project 3"
+  }
+]
